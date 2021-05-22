@@ -7,5 +7,5 @@ download both folders.<br/>
 in the react use npm install and it will install all the dependencies.
 
 ## Home Page
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/ashen99/PremierLeageManager/tree/main/Images/home.png)
 
